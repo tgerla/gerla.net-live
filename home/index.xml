@@ -13,6 +13,16 @@
     
     
     <item>
+      <title></title>
+      <link>http://www.gerla.net/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gerla.net/home/about/</guid>
+      <description>Biography I have been working in IT automation and systems management for most of my career, beginning as an operating systems engineer at rPath, the first company to build and manage software appliances. I moved into a Sales Engineering role at rPath, then took a job at Eucalyptus, the open-source, AWS-compatible cloud platform, acquired by HP in 2014.
+In 2013, I co-founded Ansible, Inc. and helped grow the business as VP of Services and Support and CTO until its acquisition by Red Hat Software in 2015, for over $100M.</description>
+    </item>
+    
+    <item>
       <title>Resumé</title>
       <link>http://www.gerla.net/home/resume/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
@@ -30,16 +40,6 @@ Ansible, Inc. (Durham, NC) Co-Founder and CTO (February 2015 - November 2015) Le
       
       <guid>http://www.gerla.net/home/contact/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://www.gerla.net/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.gerla.net/home/about/</guid>
-      <description>Biography I have been working in IT automation and systems management for most of my career, beginning as an operating systems engineer at rPath, the first company to build and manage software appliances. I moved into a Sales Engineering role at rPath, then took a job at Eucalyptus, the open-source, AWS-compatible cloud platform, acquired by HP in 2014.
-In 2013, I co-founded Ansible, Inc. and helped grow the business as VP of Services and Support and CTO until its acquisition by Red Hat Software in 2015, for over $100M.</description>
     </item>
     
   </channel>
